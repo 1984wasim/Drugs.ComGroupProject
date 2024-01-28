@@ -26,5 +26,7 @@ public class DrugsHomePageActions {
 	public void LinkRegister(){
 		DrugsHomePageLocatorsObj.linkRegister.click();
 	}
+	
+	//This changes to check on git devAshik
 
 }
