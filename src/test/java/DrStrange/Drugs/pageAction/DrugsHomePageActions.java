@@ -27,6 +27,13 @@ public class DrugsHomePageActions {
 		DrugsHomePageLocatorsObj.linkRegister.click();
 	}
 	
+	public void LinkInteractionChecker(){
+		DrugsHomePageLocatorsObj.linkInteractionChecker.click();
+	}
+	
+	public void linkSideEffects(){
+		DrugsHomePageLocatorsObj.linkSideEffects.click();
+	}
 	//This changes to check on git devAshik
 
 }

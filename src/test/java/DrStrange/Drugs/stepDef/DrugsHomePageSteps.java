@@ -28,4 +28,14 @@ public class DrugsHomePageSteps {
 		DrugsHomePageActionsObj.LinkRegister();
 	}
 	
+	@When("^the user clicks on the Interaction Checker link$")
+	public void the_user_clicks_on_the_Interaction_Checker_link() throws Throwable {
+		DrugsHomePageActionsObj.LinkInteractionChecker();
+	}
+	
+	@When("^the user clicks on the Side Effects link$")
+	public void the_user_clicks_on_the_Side_Effects_link() throws Throwable {
+		DrugsHomePageActionsObj.linkSideEffects();
+	}
+	
 }
