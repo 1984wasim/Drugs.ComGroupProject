@@ -34,6 +34,6 @@ public class DrugsHomePageActions {
 	public void linkSideEffects(){
 		DrugsHomePageLocatorsObj.linkSideEffects.click();
 	}
-	//This changes to check on git devAshik
+	//This changes to check on git2 devAshik
 
 }
