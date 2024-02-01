@@ -32,5 +32,7 @@ public class DrugsIneractionCheckerPageAction {
     public void verifyVisibleText(){
     	DrugsIneractionCheckerPageLocatorObj.txtDrugsName.isDisplayed();
 	}
+    
+    //Testing pull request changes
 
 }
